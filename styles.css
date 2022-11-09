@@ -1,0 +1,55 @@
+body{
+    background-color: grey;
+    
+        font-family: "Kanit", sans-serif;
+      
+}
+.header{
+    background-color: white;
+    font-size: 30px;
+    margin-top: 0px;
+    padding-top: 0;
+    margin-left: 0;
+    margin-right:0;
+}
+.header p{
+    padding-left: 975px;
+}
+
+.post{
+    width: 600px;
+    background-color: white;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+.post-head{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width:600px;
+
+}
+.head-left{
+    margin-left: 15px;
+    margin-right: 437px;
+}
+.head-right{
+    color:grey;
+
+}
+.post-photo img{
+    width: 600px;
+    height:auto;
+
+}
+
+
+.post-text{
+    width:570px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    
+}
